@@ -1,3 +1,5 @@
+pipenv install requests
+pipenv shell
 import os
 import requests
 import json
